@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="assets paps.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="papyrus down0000" x="2978" y="3140" width="500" height="797" frameX="-8" frameY="0" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0001" x="2978" y="3140" width="500" height="797" frameX="-8" frameY="0" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0002" x="1779" y="3228" width="500" height="778" frameX="-8" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0003" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0004" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0005" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0006" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0007" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0008" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0009" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0010" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0011" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0012" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0013" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0014" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0015" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0016" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0017" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0018" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus down0019" x="2407" y="3223" width="508" height="778" frameX="0" frameY="-19" frameWidth="508" frameHeight="797"/>
+	<SubTexture name="papyrus idle new0000" x="3068" y="1581" width="557" height="767" frameX="-47" frameY="-21" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0001" x="3068" y="1581" width="557" height="767" frameX="-47" frameY="-21" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0002" x="2524" y="6" width="557" height="775" frameX="-47" frameY="-13" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0003" x="2407" y="2442" width="565" height="775" frameX="-39" frameY="-13" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0004" x="1836" y="2442" width="565" height="780" frameX="-39" frameY="-8" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0005" x="1836" y="2442" width="565" height="780" frameX="-39" frameY="-8" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0006" x="1867" y="1649" width="604" height="787" frameX="0" frameY="-1" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0007" x="1867" y="1649" width="604" height="787" frameX="0" frameY="-1" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0008" x="6" y="2364" width="604" height="788"/>
+	<SubTexture name="papyrus idle new0009" x="6" y="3158" width="595" height="788" frameX="-9" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0010" x="6" y="3158" width="595" height="788" frameX="-9" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0011" x="6" y="3158" width="595" height="788" frameX="-9" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0012" x="1924" y="6" width="594" height="788" frameX="-10" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0013" x="1924" y="6" width="594" height="788" frameX="-10" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0014" x="2978" y="2362" width="557" height="772" frameX="-47" frameY="-16" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0015" x="2978" y="2362" width="557" height="772" frameX="-47" frameY="-16" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0016" x="2505" y="1581" width="557" height="775" frameX="-47" frameY="-13" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0017" x="2505" y="800" width="565" height="775" frameX="-39" frameY="-13" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0018" x="1208" y="3227" width="565" height="777" frameX="-39" frameY="-11" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0019" x="1208" y="3227" width="565" height="777" frameX="-39" frameY="-11" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0020" x="1226" y="2434" width="604" height="787" frameX="0" frameY="-1" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0021" x="1226" y="2434" width="604" height="787" frameX="0" frameY="-1" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0022" x="616" y="2364" width="604" height="788"/>
+	<SubTexture name="papyrus idle new0023" x="607" y="3158" width="595" height="788" frameX="-9" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0024" x="607" y="3158" width="595" height="788" frameX="-9" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0025" x="607" y="3158" width="595" height="788" frameX="-9" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0026" x="1905" y="800" width="594" height="788" frameX="-10" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus idle new0027" x="1905" y="800" width="594" height="788" frameX="-10" frameY="0" frameWidth="604" frameHeight="788"/>
+	<SubTexture name="papyrus left0000" x="614" y="1576" width="626" height="782"/>
+	<SubTexture name="papyrus left0001" x="614" y="1576" width="626" height="782"/>
+	<SubTexture name="papyrus left0002" x="1303" y="6" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0003" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0004" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0005" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0006" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0007" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0008" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0009" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0010" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0011" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0012" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0013" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0014" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0015" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0016" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0017" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0018" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus left0019" x="1246" y="1649" width="615" height="779" frameX="-11" frameY="-3" frameWidth="626" frameHeight="782"/>
+	<SubTexture name="papyrus right0000" x="630" y="6" width="667" height="781" frameX="-23" frameY="0" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0001" x="630" y="6" width="667" height="781" frameX="-23" frameY="0" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0002" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0003" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0004" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0005" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0006" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0007" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0008" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0009" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0010" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0011" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0012" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0013" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0014" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0015" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0016" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus right0017" x="630" y="793" width="661" height="777" frameX="0" frameY="-4" frameWidth="690" frameHeight="781"/>
+	<SubTexture name="papyrus up0000" x="6" y="6" width="618" height="853"/>
+	<SubTexture name="papyrus up0001" x="6" y="6" width="618" height="853"/>
+	<SubTexture name="papyrus up0002" x="6" y="865" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0003" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0004" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0005" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0006" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0007" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0008" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0009" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0010" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0011" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0012" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0013" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0014" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0015" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0016" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0017" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0018" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+	<SubTexture name="papyrus up0019" x="1297" y="793" width="602" height="850" frameX="-16" frameY="-3" frameWidth="618" frameHeight="853"/>
+</TextureAtlas>
