@@ -222,6 +222,7 @@ class PlayState extends MusicBeatState
 		if (FlxG.sound.music != null)
 			FlxG.sound.music.stop();
 
+
 		sicks = 0;
 		bads = 0;
 		shits = 0;
