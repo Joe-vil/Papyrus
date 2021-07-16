@@ -150,9 +150,16 @@ class TitleState extends MusicBeatState
 			// music.loadStream(Paths.music('freakyMenu'));
 			// FlxG.sound.list.add(music);
 			// music.play();
+
+			FlxG.sound.playMusic(Paths.music('You Are A Pirate'), 0);
+
+			FlxG.sound.music.fadeIn(4, 0, 0.7);
+
+			#if desktop
 			FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
 
 			FlxG.sound.music.fadeIn(4, 0, 0.7);
+			#end
 		}
 
 		Conductor.changeBPM(102);
@@ -167,6 +174,8 @@ class TitleState extends MusicBeatState
 		dadsaw.antialiasing = true;	
 		add(dadsaw);
 
+
+		
 		logoBl = new FlxSprite(-150, -100);
 		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
 		logoBl.antialiasing = true;
